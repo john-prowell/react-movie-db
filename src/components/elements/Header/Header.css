@@ -1,0 +1,25 @@
+.header {
+  margin: 0 auto;
+  background: black;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100px;
+  /* max-width: 1280px; */
+  margin: 0 auto;
+}
+
+.movie-info-logo {
+  width: 25%;
+  margin-left: 4px;
+  padding-left: 13px;
+  border-left: 1px solid white;
+}
+
+.movie-db-logo {
+  width: 10%;
+  margin-right: 15px;
+}
